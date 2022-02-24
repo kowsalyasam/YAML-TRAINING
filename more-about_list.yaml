@@ -1,0 +1,10 @@
+student-information: 
+- name : rose    
+  mark : 456   
+  percentage : 78    
+  group:   - arts   
+  
+  name1 : jack      
+  mark1 : 342      
+  percentage% : 65   
+  group1 : [bio-maths]
